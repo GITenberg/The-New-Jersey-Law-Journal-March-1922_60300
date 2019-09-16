@@ -1,0 +1,30 @@
+_repo: The-New-Jersey-Law-Journal-March-1922_60300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Honeyman, A. Van Doren (Abraham Van Doren)
+    aliases:
+    - Honeyman, A. V. D. (Abraham Van Doren)
+    - Honeyman, Abraham Van Doren
+    birthdate: 1849
+    deathdate: 1936
+    gutenberg_agent_id: '50671'
+    url: http://www.gutenberg.org/2009/agents/50671
+description: ''
+gutenberg_issued: '2019-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The New Jersey Law Journal, March, 1922
+url: http://www.gutenberg.org/ebooks/60300
